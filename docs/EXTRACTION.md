@@ -63,7 +63,7 @@ from iphone_backup_decrypt import DomainLike
 import os
 import shutil
 
-backup_dir = "/Users/<YOUR_USERNAME>/Library/Application Support/MobileSync/Backup/00008030-00125C2E0287C02E"
+backup_dir = "/Users/<YOUR_USERNAME>/Library/Application Support/MobileSync/Backup/<YOUR_DEVICE_BACKUP_ID>"
 out_dir = "/Users/<YOUR_USERNAME>/vima_extracted"
 
 # clean output
@@ -99,7 +99,7 @@ nano list.py
 ```
 from iphone_backup_decrypt.iphone_backup import EncryptedBackup
 
-backup_dir = "/Users/<YOUR_USERNAME>/Library/Application Support/MobileSync/Backup/00008030-00125C2E0287C02E"
+backup_dir = "/Users/<YOUR_USERNAME>/Library/Application Support/MobileSync/Backup/<YOUR_DEVICE_BACKUP_ID>"
 
 backup = EncryptedBackup(
     backup_directory=backup_dir,
