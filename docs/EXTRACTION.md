@@ -46,7 +46,7 @@ This creates a local backup under:
 
 <img width="400" height="415" alt="Screenshot 2026-01-10 at 10 27 00 AM" src="https://github.com/user-attachments/assets/4bd88c86-956e-4f39-9a74-6fa3862ec7c7" />
 
-7. You'll now need to decrypt the local backup to make sense of the data.  To do that, create a python script in terminal, which requires the iphone_backup_decrypt library.
+## Step 2 - You'll now need to decrypt the local backup to make sense of the data.  To do that, create a python script in terminal, which requires the iphone_backup_decrypt library.
 
 ```
 python -m pip install iphone_backup_decrypt
