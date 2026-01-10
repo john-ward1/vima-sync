@@ -118,12 +118,12 @@ for d in domains:
 
 Inside the "vima_extracted" folder, this RideTracker.sqlite database is what you're looking for. It is the db that the Vima applications uses to store run data on your phone.  
 
-<img width="221" height="195" alt="Screenshot 2026-01-10 at 9 09 23 AM" src="https://github.com/user-attachments/assets/905ef548-e15d-466b-a678-956500b76de6" />
+<img width="237" height="202" alt="Screenshot 2026-01-10 at 10 28 04 AM" src="https://github.com/user-attachments/assets/7585a752-0d12-412f-a2b6-b5297896bd01" />
 
 
 Open it with a database application.
 
-<img width="500" height="300" alt="Screenshot 2025-12-30 at 2 23 24 PM" src="https://github.com/user-attachments/assets/71440240-2dd3-495c-8055-3feb59893252" />
+<img width="500" height="300" alt="Screenshot 2025-12-30 at 2 23 24 PM" src="https://github.com/user-attachments/assets/8aaa3301-f6a3-4584-b344-77f3f00435e7" />
 
 ---
 
@@ -162,7 +162,7 @@ This creates the following files in the output directory:
 - `vima_runs.csv`
 - `vima_runs.ics`
 
-<img width="240" height="264" alt="Screenshot 2026-01-10 at 9 37 29 AM" src="https://github.com/user-attachments/assets/b881097e-2112-4522-b0a9-523e49ee2a27" />
+<img width="223" height="224" alt="Screenshot 2026-01-10 at 10 27 49 AM" src="https://github.com/user-attachments/assets/7d70e45a-2706-48b6-bde4-f94872c21d64" />
 
 ---
 
