@@ -1,0 +1,22 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "vima-sync"
+version = "0.1.0"
+description = "Export Vima Run data from iOS backups to CSV and calendar"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [
+  { name = "John Ward" }
+]
+dependencies = [
+  "pandas",
+  "pytz",
+  "ics",
+  "requests"
+]
+
+[project.scripts]
+vima-sync = "vima_sync.cli:main"
