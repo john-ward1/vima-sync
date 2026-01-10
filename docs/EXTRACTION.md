@@ -145,7 +145,6 @@ Or for development:
 
 ```bash
 git clone https://github.com/john-ward1/vima-sync.git
-cd vima-sync
 pip install -e .
 ```
 
