@@ -44,8 +44,7 @@ This creates a local backup under:
 ```
 6. To get this backup, go to finder, "Go", then hold down the "Option" key to display the "Library" folder, click on "Application Support", then "MobileSync", then "Backup", then click on the folder. Its going to be numbered file, that has numerous folders that are useless unless you decrypt it.
 
-
-<img width="400" height="415" alt="Screenshot 2026-01-10 at 8 30 04 AM" src="https://github.com/user-attachments/assets/a1790f6d-2514-4866-a9a9-86fbed980a68" />
+<img width="400" height="415" alt="Screenshot 2026-01-10 at 10 27 00 AM" src="https://github.com/user-attachments/assets/4bd88c86-956e-4f39-9a74-6fa3862ec7c7" />
 
 7. You'll now need to decrypt the local backup to make sense of the data.  To do that, create a python script in terminal, which requires the iphone_backup_decrypt library.
 
