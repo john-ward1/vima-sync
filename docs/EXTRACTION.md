@@ -166,7 +166,7 @@ This creates the following files in the output directory:
 
 ---
 
-Your runs will appear as calendar events. with the distance, duration, calories, location (start and end coordinates)
+Your runs will appear as calendar events showing distance, duration, location, with start and end coordinates included in the event details.
 
 ---
 
