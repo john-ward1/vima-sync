@@ -63,7 +63,7 @@ vima-sync --db RideTracker.sqlite --out . --no-geocode
 
 Extracting `RideTracker.sqlite` from your iPhone backup is a **one-time setup**.
 
-** See the full extraction guide:** [docs/EXTRACTION.md](docs/EXTRACTION.md)
+** See the full extraction guide:** (https://github.com/john-ward1/vima-sync/blob/main/docs/EXTRACTION.md)
 
 ---
 
